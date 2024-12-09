@@ -2,6 +2,9 @@
 # Tugas Pertemuan 13 (Latihan OOP)
 # Putri Melati Ramadhaniati
 
+# Soal
+
+
 # Data-Mahasiswa.py
 ![Program 1 per 13](https://github.com/user-attachments/assets/a6dfbe36-9a5c-44eb-825e-75dc035d5e85)
 
